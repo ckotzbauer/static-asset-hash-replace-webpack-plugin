@@ -1,0 +1,23 @@
+{
+  "name": "static-asset-hash-replace-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Replaces file references in assets with hashed file names",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-chris/static-asset-hash-replace-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "string",
+    "replace",
+    "asset",
+    "hash"
+  ],
+  "author": "Christian Kotzbauer <christian.kotzbauer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code-chris/static-asset-hash-replace-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/code-chris/static-asset-hash-replace-webpack-plugin#readme"
+}
