@@ -22,7 +22,7 @@ function findByPathFragment(assetList, pathFragment) {
 }
 
 function replacePathsInFile(asset, assetList, expression) {
-    var source = asset.source();
+    var source = asset.source().toString();
     var matches, output = [];
     while (matches = expression.exec(source)) {
         output.push(matches[1]);

@@ -1,6 +1,6 @@
 {
   "name": "static-asset-hash-replace-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replaces file references in assets with hashed file names",
   "main": "index.js",
   "repository": {
