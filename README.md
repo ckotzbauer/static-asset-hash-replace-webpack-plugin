@@ -1,5 +1,6 @@
 # Static Asset Hash Replace Webpack Plugin
 
+# Not actively maintained. Use "cache-bust-loader" instead.
 
 [![NPM](https://img.shields.io/npm/v/static-asset-hash-replace-webpack-plugin.svg)](https://www.npmjs.com/package/static-asset-hash-replace-webpack-plugin)
 
